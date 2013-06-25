@@ -1,0 +1,11 @@
+{
+  "name": "bottomfeeder",
+  "version": "0.1.0",
+  "author": "Tim Whitbeck <twhitbeck@gmail.com>",
+  "description": "A simple RSS Feed generator and server",
+  "dependencies": {
+    "elementtree": "0.1.x",
+    "express": "3.2.x",
+    "winston": "0.7.x"
+  }
+}
